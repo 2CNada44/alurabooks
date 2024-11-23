@@ -7,7 +7,7 @@
     background-position: center;
     padding-left: 2em;
 }
-/*Alicia Mendes 3D 19/11/2024*/
+/*Amanda Sales Pereira 2C 23/11/2024*/
 .container__botao:checked~.container__rotulo>.cabecalho__menu-hamburguer {
     background-image: url(../img//MenuAberto.png);
 }
